@@ -1,0 +1,11 @@
+body { 
+    background-color: lightgreen; 
+  } 
+
+#canvas {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+  
